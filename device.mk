@@ -93,3 +93,4 @@ PRODUCT_COPY_FILES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/motorola/tundra/tundra-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
